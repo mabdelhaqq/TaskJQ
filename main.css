@@ -1,0 +1,43 @@
+.container {
+    display: flex;
+  }
+  
+  .left-box,
+  .right-box {
+    width: 400px;
+    height: 500px;
+    border: 5px solid black;
+    margin: 10px;
+  }
+
+  #m-to-right,
+  #m-to-left {
+    width: 22%;
+    margin: 2% 39%;
+  }
+
+  .small {
+    width: 25%;
+    height: 20%;
+    border: 5px solid black;
+    margin: 20px 40px;
+    display: inline-block;
+  }
+
+  .sm-le-box1 {
+    border-color: red;
+  }
+  .sm-le-box2 {
+    border-color: slategray;
+
+  }
+  .sm-le-box3 {
+    border-color: indigo;
+  }
+  .sm-ri-box1 {
+    border-color: sienna;
+  }
+  .sm-ri-box2 {
+    border-color: yellow;
+  }
+  
